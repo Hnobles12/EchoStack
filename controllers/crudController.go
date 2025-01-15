@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"EchoStack/EchoStack/repositories"
 	"net/http"
 
+	"github.com/hnobles12/echostack/repositories"
 	"github.com/labstack/echo"
 )
 
