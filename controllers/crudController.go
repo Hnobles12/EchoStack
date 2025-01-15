@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/hnobles12/echostack/repositories"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 // Controller handles CRUD operations for a specific model type.
