@@ -1,4 +1,4 @@
-module EchoStack
+module github.com/hnobles12/EchoStack
 
 go 1.23.4
 
